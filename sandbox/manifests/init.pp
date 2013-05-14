@@ -8,6 +8,7 @@ node default {
   package { 'python-pip': }
   package { 'python-dev': }
   package { 'libevent1-dev': } 
+  package { 'ipython': }
 
 }
 
